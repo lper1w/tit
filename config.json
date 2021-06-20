@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "token 1",
-    "token 2",
-    "token 3"
+    "1b792dc215526ececc0e5f1a1710dcdc745860ddbd7b2906fa23c4f10bd334e8d7beca0a95edc5897e39d",
+    "1b792dc215526ececc0e5f1a1710dcdc745860ddbd7b2906fa23c4f10bd334e8d7beca0a95edc5897e39d",
+    "1b792dc215526ececc0e5f1a1710dcdc745860ddbd7b2906fa23c4f10bd334e8d7beca0a95edc5897e39d
   ],
-  "secret_code": "IDM secret code",
+  "secret_code": "rzr7l_mld",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
